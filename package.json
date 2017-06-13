@@ -1,0 +1,28 @@
+{
+  "name": "generator-static",
+  "version": "0.1.0",
+  "description": "Scaffold out a static web app",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryzokuken/generator-static.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Ujjwal Sharma <usharma1998@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryzokuken/generator-static/issues"
+  },
+  "homepage": "https://github.com/ryzokuken/generator-static#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
